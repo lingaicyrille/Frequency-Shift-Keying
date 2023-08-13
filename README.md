@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a simple 
+Frequency-shift keying (FSK) is a frequency modulation scheme in which digital information is encoded on a carrier signal by periodically shifting the frequency of the carrier between several discrete frequencies. Project consists of a simple diagram of the frequency Shift Keying.
 <br />
 
 
